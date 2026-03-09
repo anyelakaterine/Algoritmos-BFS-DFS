@@ -10,6 +10,7 @@ Objetivo
 El objetivo de este proyecto es programar e implementar los algoritmos BFS y DFS sobre un grafo pequeño y comparar sus resultados en términos de:
 •	Camino encontrado entre un nodo inicial y uno final.
 •	Memoria utilizada durante la ejecución del algoritmo.
+
 Descripción del problema
 Se utiliza un grafo compuesto por varios nodos conectados entre sí.
 Cada nodo representa un punto dentro del grafo y cada conexión representa una relación entre nodos.
@@ -17,16 +18,19 @@ El programa busca encontrar un camino desde un nodo origen hasta un nodo destino
 Algoritmos implementados
 BFS (Breadth First Search)
 BFS es un algoritmo de búsqueda que explora el grafo por niveles.
+
 Características:
 •	Utiliza una cola (FIFO – First In First Out).
 •	Primero explora los nodos más cercanos al nodo inicial.
 •	Garantiza encontrar el camino más corto en grafos no ponderados.
 DFS (Depth First Search)
 DFS es un algoritmo que explora el grafo en profundidad.
+
 Características:
 •	Utiliza una pila (LIFO – Last In First Out).
 •	Sigue un camino hasta el final antes de explorar otros caminos.
 •	Puede encontrar soluciones rápidamente en estructuras profundas.
+
 Funcionamiento del programa
 El programa realiza los siguientes pasos:
 1.	Define un grafo pequeño utilizando un diccionario en Python.
