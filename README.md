@@ -9,6 +9,7 @@ DFS (Depth First Search) – Búsqueda en profundidad
 El desarrollo del código se realizó en Google Colab, donde se ejecuta el algoritmo y se visualiza el grafo utilizado para el ejercicio.
 
 1. Introducción
+   
 En informática y especialmente en el área de inteligencia artificial, los algoritmos de búsqueda permiten explorar estructuras de datos complejas con el fin de encontrar soluciones a diferentes problemas.
 
 Una de las estructuras más utilizadas para representar estos problemas son los grafos, los cuales están compuestos por nodos (vértices) y aristas (conexiones entre nodos).
@@ -82,6 +83,3 @@ GitHub
 El código completo desarrollado para este trabajo se encuentra disponible en el siguiente repositorio:
 
 https://github.com/anyelakaterine/Algoritmos-BFS-DFS/tree/main/TP
-
-En este enlace se puede acceder al notebook que contiene la implementación de los algoritmos BFS y DFS.
-
