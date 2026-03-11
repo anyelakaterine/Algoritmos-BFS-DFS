@@ -1,4 +1,5 @@
 Implementación de algoritmos BFS y DFS en Python
+
 Autor: Anyela Katerine Rentería Cuama
 
 Este proyecto presenta la implementación de dos algoritmos fundamentales de búsqueda en grafos:
@@ -84,9 +85,3 @@ https://github.com/anyelakaterine/Algoritmos-BFS-DFS/tree/main/TP
 
 En este enlace se puede acceder al notebook que contiene la implementación de los algoritmos BFS y DFS.
 
-9. Clonar el repositorio
-Para descargar una copia del proyecto en el computador se puede utilizar el siguiente comando de Git:
-
-bash
-Copiar código
-git clone https://github.com/anyelakaterine/Algoritmos-BFS-DFS.git
