@@ -21,6 +21,7 @@ Búsqueda en profundidad (DFS)
 Ambos algoritmos permiten explorar un grafo desde un nodo inicial hasta encontrar un nodo objetivo.
 
 2. Objetivo del proyecto
+   
 El objetivo de este trabajo es implementar los algoritmos BFS y DFS en Python y analizar su comportamiento al buscar un camino dentro de un grafo.
 
 Los objetivos específicos son:
