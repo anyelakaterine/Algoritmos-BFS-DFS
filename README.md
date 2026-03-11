@@ -31,6 +31,7 @@ Encontrar un camino entre un nodo inicial y un nodo destino.
 Comparar el camino encontrado por cada algoritmo.
 Analizar el uso aproximado de memoria durante la ejecución.
 Visualizar el grafo utilizado en el ejercicio.
+
 3. Descripción del problema
 Para el desarrollo del ejercicio se utiliza un grafo pequeño compuesto por varios nodos conectados entre sí.
 
@@ -57,9 +58,10 @@ Características principales
 Utiliza una pila (LIFO – Last In First Out).
 Explora completamente un camino antes de intentar otro.
 Permite recorrer todas las posibles rutas dentro del grafo.
-5. Funcionamiento del programa
-El programa desarrollado sigue los siguientes pasos:
 
+5. Funcionamiento del programa
+   
+El programa desarrollado sigue los siguientes pasos:
 Se define un grafo utilizando un diccionario en Python.
 Se implementa la función correspondiente al algoritmo BFS.
 Se implementa la función correspondiente al algoritmo DFS.
@@ -67,6 +69,7 @@ Se ejecutan ambos algoritmos utilizando el mismo nodo inicial y nodo destino.
 Se obtiene el camino encontrado por cada algoritmo.
 Se calcula una estimación del uso de memoria durante la ejecución.
 Se presentan los resultados obtenidos para comparar el comportamiento de ambos métodos.
+
 6. Resultados obtenidos
 Al ejecutar el programa se obtienen los siguientes resultados:
 
@@ -74,13 +77,13 @@ El camino encontrado utilizando BFS.
 El camino encontrado utilizando DFS.
 Una estimación del uso de memoria durante la ejecución.
 Una comparación entre ambos algoritmos.
+
 7. Tecnologías utilizadas
 Para el desarrollo de este proyecto se utilizaron las siguientes herramientas:
-
 Python
 Google Colab
 GitHub
+
 8. Acceso al código del proyecto
 El código completo desarrollado para este trabajo se encuentra disponible en el siguiente repositorio:
-
 https://github.com/anyelakaterine/Algoritmos-BFS-DFS/tree/main/TP
